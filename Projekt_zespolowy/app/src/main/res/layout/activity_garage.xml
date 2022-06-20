@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00BCD4"
+    android:backgroundTint="#00BCD4"
+    android:orientation="vertical"
+    tools:context=".GarageActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="390dp">
+
+        <ImageView
+            android:id="@+id/iv_garage"
+            android:layout_width="313dp"
+            android:layout_height="296dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/garageactivity" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="335dp">
+
+        <TextView
+            android:id="@+id/tv_garageactivity"
+            android:layout_width="327dp"
+            android:layout_height="316dp"
+            android:layout_weight="1"
+            android:fontFamily="sans-serif-condensed"
+            android:text="Garaż jest wyposażony w czujniki odległości. Wraz ze zbliżającym się do ściany pojazdem zwiększać się będzie głośność syreny alarmowej. Zamontowano także bramę którą można otwierać i zamykać z poziomu aplikacji."
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+</LinearLayout>

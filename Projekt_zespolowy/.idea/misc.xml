@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/layout/activity_bedroom1.xml" value="0.12601626016260162" />
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/layout/activity_bedroom2.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/layout/activity_bt_monitor.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/layout/activity_control.xml" value="0.1631578947368421" />
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/layout/activity_garage.xml" value="0.1" />
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/layout/activity_kitchen.xml" value="0.10877192982456141" />
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/layout/activity_main.xml" value="0.11654135338345864" />
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/layout/activity_main2.xml" value="0.15897435897435896" />
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/layout/activity_second.xml" value="0.15656565656565657" />
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/layout/activity_toilet.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/layout/list_item.xml" value="0.16" />
+        <entry key="..\:/Users/kuba1/AndroidStudioProjects/Projekt_zespolowy/app/src/main/res/menu/control_menu.xml" value="0.20885416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
